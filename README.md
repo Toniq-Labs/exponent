@@ -7,10 +7,7 @@ The exponent token standard is an ERC721 equivilent standard allowing for the cr
 Once minted, users will be able to transfer EXTs and use them through the Exponent Platform.
 
 ## eDEX Protocol
-The eDEX Protocol provides IC Canisters for the trading of EXTs in a decentralized way via Decentralized Exchanges and Online Marketplaces. Developers can deploy their own eDEX Canisters and set defined trading fees. We will also look to release our own DEX built on top of the eDEX Protocol.
-
-## atomIC Protocol
-This is a Cross-chain atomic bridge - allowing users to move digital assets through different blockchains via a secure atomic transfer using smart contracts. Assets moves cross-chain will exist on-chain in Secured Reserve Contracts (SRCs) and can be reclaimed via a reverse atomic transfer in future.
+The eDEX Protocol provides IC Canisters for the trading of EXTs in a decentralized way using dapps like Decentralized Exchanges and Online Marketplaces. Developers can deploy their own eDEX Canisters and set developer defined trading fees. We will also look to release our own DEX built on top of the eDEX Protocol.
 
 ## Rapt Protocol - Wrapped ICP Tokens
 The Rapt Protocol allows for the interoperability of ICP tokens, providing an EXT-like interface to allow for the treatment of ICP tokens as an EXT. This will allow us to securely use these wrapped ICP tokens as trading pairs and cross-chain transfers.
